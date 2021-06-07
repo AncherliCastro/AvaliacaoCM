@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/07/01 11:21:58.000.632,=C:\Users\Ancherli\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/06/05 13:39:02.000.549,=C:\Users\Ancherli\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/06/05 15:02:44.000.698,=C:\Users\Ancherli\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/06/05 15:03:30.000.539,C:\Users\Ancherli\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\AvaliacaoCM\FRM_Principal.dfm</Transaction>
+    <Transaction>2021/06/05 15:03:30.000.539,C:\Users\Ancherli\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\AvaliacaoCM\FRM_Principal.pas</Transaction>
+    <Transaction>2021/06/05 15:03:40.000.211,C:\Users\Ancherli\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\AvaliacaoCM\AvaliacaoCM.dproj</Transaction>
+    <Transaction>2021/06/05 15:08:33.000.220,C:\AvaliacaoCM\FRM_Principal.pas=C:\AvaliacaoCM\uPrincipal.pas</Transaction>
+    <Transaction>2021/06/05 15:08:33.000.220,C:\AvaliacaoCM\FRM_Principal.dfm=C:\AvaliacaoCM\uPrincipal.dfm</Transaction>
+    <Transaction>2021/06/05 15:45:52.000.089,=C:\AvaliacaoCM\Unit1.pas</Transaction>
+    <Transaction>2021/06/05 15:46:06.000.468,C:\AvaliacaoCM\Unit1.pas=C:\AvaliacaoCM\uConexao.pas</Transaction>
+    <Transaction>2021/06/05 17:06:01.000.522,=C:\AvaliacaoCM\Unit1.pas</Transaction>
+    <Transaction>2021/06/05 17:07:22.000.354,C:\AvaliacaoCM\Unit1.pas=C:\AvaliacaoCM\Controller.pas</Transaction>
+    <Transaction>2021/06/05 17:45:15.000.391,=C:\AvaliacaoCM\Unit1.pas</Transaction>
+    <Transaction>2021/06/05 17:45:58.000.401,C:\AvaliacaoCM\Unit1.pas=C:\AvaliacaoCM\uPostagensDAO.pas</Transaction>
+    <Transaction>2021/06/05 17:51:33.000.153,=C:\AvaliacaoCM\Unit1.pas</Transaction>
+    <Transaction>2021/06/05 17:51:51.000.098,C:\AvaliacaoCM\Unit1.pas=C:\AvaliacaoCM\uPostagemModel.pas</Transaction>
+    <Transaction>2021/06/05 17:52:08.000.715,C:\AvaliacaoCM\uPostagemModel.pas=C:\AvaliacaoCM\uPostagesModel.pas</Transaction>
+    <Transaction>2021/06/05 18:06:36.000.985,=C:\AvaliacaoCM\Model.HTTPSection.pas</Transaction>
+    <Transaction>2021/06/05 18:58:28.000.577,=C:\AvaliacaoCM\Unit1.pas</Transaction>
+    <Transaction>2021/06/05 18:58:56.000.740,C:\AvaliacaoCM\Unit1.pas=C:\AvaliacaoCM\uPostagensControl.pas</Transaction>
+    <Transaction>2021/06/05 19:00:20.000.774,C:\AvaliacaoCM\uPostagesModel.pas=C:\AvaliacaoCM\uPostagensModel.pas</Transaction>
+    <Transaction>2021/06/06 17:58:14.000.976,C:\AvaliacaoCM\Model.HTTPSection.pas=</Transaction>
+    <Transaction>2021/06/06 18:00:08.000.595,C:\AvaliacaoCM\Controller.pas=</Transaction>
+    <Transaction>2021/06/06 23:18:37.000.851,=C:\AvaliacaoCM\Unit1.pas</Transaction>
+    <Transaction>2021/06/06 23:18:55.000.838,C:\AvaliacaoCM\uLog.pas=C:\AvaliacaoCM\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
